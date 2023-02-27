@@ -238,9 +238,8 @@ Response not successful: Received status code 401 | Same as "server cannot be re
 
 ✅  **Step 4a:** Get to the API URL for your keyspace
 
-In graphQL playground, **change playground tab** to now use `graphql`. The Playground has its own address bar
-(**note**: it's _not_ the address bar of your browser). Edit the ending of the URL shown there, from `system` to the
-name of the keyspace: `netflix`
+* In graphQL playground, **change playground tab** to now use `graphql`.
+* Edit the ending of the URL shown there, from `system` to the name of the keyspace: `netflix`
 
 ✅  **Step 4b:** Repeat the insertion of the `x-cassandra-token` header for this playground tab (as you did for the first one):
 
