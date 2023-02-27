@@ -660,7 +660,7 @@ Scroll to where you were in the README.
 </details>
 
 > **Note** At this point, you MUST be reading this README from **YOUR** Github repository.
-> That is, if the address bar still says `https://github.com/datastaxdevs/...` please
+> That is, if the address bar still says `https://github.com/in-realtime/...` please
 > head over to YOUR copy of the repo before going the Gitpod route!
 
 ✅ **Step 2b: Launch Gitpod:**
