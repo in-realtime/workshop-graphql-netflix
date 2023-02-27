@@ -112,7 +112,6 @@ It doesn't matter if you join our workshop live or you prefer to do at your own 
 
 ## 1. Login or Register to AstraDB and create database
 
-> 🎁 *When creating your instance, use the promotion code **ANIA200** to get 200$ of additional free credit!*
 
 _**`ASTRA DB`** is the simplest way to run Cassandra with zero operations at all - just push the button and get your cluster. No credit card required, 40M read/write operations and about 80GB storage monthly for free - sufficient to run small production workloads. If you use up your credits the databases will pause, no charge, and you will be given the option to upgrade to a higher tier._
 
