@@ -696,7 +696,7 @@ on your Gitpod.
 ✅ **Step 3a: Set up the CLI:**
 
 Run the following in the Gitpod terminal and,
-when prompted, enter the `AstraCS:...` you obtained at the beginning.
+when prompted, enter the Astra token `AstraCS:...` you obtained at the beginning.
 
 ``` bash
 astra setup
@@ -1048,8 +1048,7 @@ and make sure you confirm the choice of associating to
 netlify env:import .env
 ```
 
-Now the (actually) serverless functions in Netlify have the connection
-parameters they need.
+Now the serverless functions in Netlify have the connection parameters they need.
 
 <details><summary>Show me!</summary>
 
