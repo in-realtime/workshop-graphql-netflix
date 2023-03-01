@@ -65,7 +65,7 @@ Attending the session is not enough. You need to complete the homeworks detailed
 
 It doesn't matter if you join our workshop live or you prefer to do at your own pace, we have you covered. In this repository, you'll find everything you need for this workshop:
 
-- [Slide deck](slides/slides.pdf)
+- [Slide deck](slides/IRT%20GraphQL%20-%20Build%20a%20Netflix%20Clone.pdf)
 - [Discord chat](https://bit.ly/cassandra-workshop)
 - ["cassandra" on StackOverflow](https://stackoverflow.com/questions/tagged/cassandra)
 - ["cassandra" on DBA StackExchange](https://dba.stackexchange.com/questions/tagged/cassandra)
